@@ -43,6 +43,20 @@
       "relation": "manyToOne",
       "target": "api::category.category",
       "inversedBy": "products"
+    },
+    "disc_price": {
+      "type": "decimal"
+    },
+    "sizes": {
+      "type": "blocks",
+      "required": false
+    },
+    "delivery": {
+      "type": "boolean",
+      "required": true
+    },
+    "description": {
+      "type": "text"
     }
   }
 }
