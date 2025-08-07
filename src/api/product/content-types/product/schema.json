@@ -45,7 +45,8 @@
       "inversedBy": "products"
     },
     "disc_price": {
-      "type": "decimal"
+      "type": "decimal",
+      "required": true
     },
     "sizes": {
       "type": "blocks",

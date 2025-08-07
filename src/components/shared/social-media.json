@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_social_medias",
+  "info": {
+    "displayName": "SocialMedia"
+  },
+  "options": {},
+  "attributes": {
+    "Telegram": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_socials",
+  "info": {
+    "displayName": "Social"
+  },
+  "options": {},
+  "attributes": {
+    "Instagram": {
+      "type": "string"
+    },
+    "Telegram": {
+      "type": "string"
+    },
+    "YouTobe": {
+      "type": "string"
+    },
+    "Email": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

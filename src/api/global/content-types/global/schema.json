@@ -20,7 +20,11 @@
       "type": "media",
       "multiple": false,
       "required": false,
-      "allowedTypes": ["images", "files", "videos"]
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
     },
     "siteDescription": {
       "type": "text",
@@ -28,8 +32,18 @@
     },
     "defaultSeo": {
       "type": "component",
-      "repeatable": false,
-      "component": "shared.seo"
+      "component": "shared.seo",
+      "repeatable": false
+    },
+    "Social_Media_Links": {
+      "type": "component",
+      "component": "shared.social",
+      "repeatable": false
+    },
+    "Phone_Numbers": {
+      "type": "component",
+      "component": "shared.phone-numbers",
+      "repeatable": false
     }
   }
 }

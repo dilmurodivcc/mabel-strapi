@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_phone_numbers",
+  "info": {
+    "displayName": "Phone_Numbers",
+    "icon": "phone"
+  },
+  "options": {},
+  "attributes": {
+    "tel1": {
+      "type": "biginteger"
+    },
+    "tel2": {
+      "type": "biginteger"
+    }
+  },
+  "config": {}
+}
